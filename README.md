@@ -20,19 +20,17 @@ ParkSpace was built using the following technologies:
 
 |   |   |   |
 |---|---|---|
-| ![Home Screen](app/public/screenshots/HomeScreen.png){ width=300px } <br> Home Screen | ![Search Screen](app/public/screenshots/SearchScreen.png){ width=300px } <br> Search Screen | ![Parking Details](app/public/screenshots/ParkingDetails.png){ width=300px } <br> Parking Details |
-| ![Booking Form](app/public/screenshots/BookingForm.png){ width=300px } <br> Booking Form | ![Booking Summary Screen](app/public/screenshots/BookingSummaryScreen.png){ width=300px } <br> Booking Summary Screen | ![Parking Ticket Screen](app/public/screenshots/ParkingTicketScreen.png){ width=300px } <br> Parking Ticket Screen |
-| ![Navigation Feature](app/public/screenshots/NavigationFeature.png){ width=300px } <br> Navigation Feature | ![Active Bookings Screen](app/public/screenshots/ActiveBookings.png){ width=300px } <br> Active Bookings Screen | ![Active Booking Details Screen](app/public/screenshots/ActiveBookingDetailsScreen.png){ width=300px } <br> Active Booking Details Screen |
-| ![Timer Screen](app/public/screenshots/TimerScreen.png){ width=300px } <br> Timer Screen | ![User Profile Screen](app/public/screenshots/UserProfileScreen.png){ width=300px } <br> User Profile Screen | ![Notifications Screen](app/public/screenshots/NotificationsScreen.png){ width=300px } <br> Notifications Screen |
+| ![Home Screen](app/public/screenshots/HomeScreen.png) <br> Home Screen | ![Search Screen](app/public/screenshots/SearchScreen.png)<br> Search Screen | ![Parking Details](app/public/screenshots/ParkingDetails.png) <br> Parking Details |
+| ![Booking Form](app/public/screenshots/BookingForm.png) <br> Booking Form | ![Booking Summary Screen](app/public/screenshots/BookingSummaryScreen.png) <br> Booking Summary Screen | ![Parking Ticket Screen](app/public/screenshots/ParkingTicketScreen.png) <br> Parking Ticket Screen |
+| ![Navigation Feature](app/public/screenshots/NavigationFeature.png) <br> Navigation Feature | ![Active Bookings Screen](app/public/screenshots/ActiveBookings.png) <br> Active Bookings Screen | ![Active Booking Details Screen](app/public/screenshots/ActiveBookingDetailsScreen.png) <br> Active Booking Details Screen |
+| ![Timer Screen](app/public/screenshots/TimerScreen.png) <br> Timer Screen | ![User Profile Screen](app/public/screenshots/UserProfileScreen.png)<br> User Profile Screen | ![Notifications Screen](app/public/screenshots/NotificationsScreen.png) <br> Notifications Screen |
 
 
 ## ParkSpace - Build Instructions
 
 ### Cloning the Repository
 
-Begin by cloning the ParkSpace repository using Git:
-
-`git clone https://git.cs.dal.ca/patel33/csci_5708_group_12g_project.git`
+Begin by cloning the ParkSpace repository using Git
 
 ### Open in Android Studio
 
@@ -111,29 +109,3 @@ The following dependencies are used in the ParkSpace project:
 - com.google.android.gms:play-services-maps:17.0.1 - Google Play Services Maps
 - nl.dionsegijn:konfetti-compose:2.0.4 - Konfetti Compose (Confetti animations for Jetpack Compose)
 
-## References
-
-[1] "Jetpack," Android Developers. [Online]. Available: https://developer.android.com/courses/jetpack-compose/course?gad_source=1&gclid=Cj0KCQjwk6SwBhDPARIsAJ59GwdwBIOr9gs5K0ms4WsZCmfEz0aQpbGwGVCvEvOSszq05ySH2ua7EXQaAtb2EALw_wcB&gclsrc=aw.ds. [Accessed: March 11, 2024].
-
-[2] "Dagger HILT," Android Developers. [Online]. Available: https://developer.android.com/training/dependency-injection/hilt-android. [Accessed: March 10, 2024].
-
-[3] "Material UI," Material Design. [Online]. Available: https://m3.material.io/. [Accessed: March 16, 2024].
-
-[4] "JUnit," JUnit. [Online]. Available: https://junit.org/junit5/. [Accessed: March 14, 2024].
-
-[4] "Google Maps SDK," Google Developers. [Online]. Available: https://developers.google.com/maps/documentation/android-sdk/overview. [Accessed: March 13, 2024].
-
-[5] "Firebase," Firebase. [Online]. Available: https://firebase.google.com/. [Accessed: March 9, 2024].
-
-## Authors & Acknowledgements
-
-- Dheemanth Rajendra Prasad Kumawat (B00962845)
-- Dhruv Kapoor (B00937833)
-- Kainat Khan (B00937232)
-- Parth Modi (B00962830)
-- Rakshit Ranpariya (B00946421)
-- Rushikumar Patel (B00948619)
-- Sameer Amesara (B00961209)
-- Smit Patel (B00963945)
-- Sneh Patel (B00968316)
-- Tathya Kapadia (B00968181)
